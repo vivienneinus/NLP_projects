@@ -1,6 +1,1 @@
-Convert a line of text into a tensor
-Create a tensorflow dataset
-Define a GRU model using TensorFlow
-Train the model using TensorFlow
-Compute the accuracy of your model using the perplexity
-Generate text using your own model
+This repository consists of several Natural Launguage Processing projects including Deep N-grams with a GRU model and evaluating accuracy using the perplexity.\n
